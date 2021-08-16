@@ -4,7 +4,7 @@ author: Adam J Campbell
 date: '2020-06-16'
 slug: what-is-the-population-density-of-new-zealand
 categories: []
-tags: [rstats, sf, geospatial, ggplot2, reactable, population density, New Zealand, USA] 
+tags: [analysis, population density, New Zealand, USA] 
 subtitle: ''
 summary: ''
 authors: []
@@ -16,6 +16,16 @@ image:
   focal_point: 'Center'
   preview_only: true
 projects: []
+
+links:
+ - name: "code"
+   url: https://github.com/campbead/Urbanization_NZ
+   icon_pack: fab
+   icon: github
+ - name: "twitter"
+   url: https://twitter.com/campbead/status/1277445456444809217
+   icon_pack: fab
+   icon: twitter
 ---
 
 

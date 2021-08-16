@@ -4,7 +4,7 @@ author: Adam J Campbell
 date: '2020-08-03'
 slug: different-ways-to-slice-the-earth
 categories: []
-tags: [rstats, sf, geospatial, ggplot2, geography] 
+tags: [analysis, geography] 
 subtitle: ''
 summary: "About 2/3's the Earth's land in is the northern hemisphere.  How would that change if the equator were in a different location"
 authors: []

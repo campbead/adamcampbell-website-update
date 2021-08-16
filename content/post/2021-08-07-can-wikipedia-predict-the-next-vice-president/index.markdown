@@ -4,7 +4,7 @@ author: Adam J Campbell
 date: '2021-01-31'
 slug: can-wikipedia-predict-the-next-vice-president
 categories: []
-tags: [rstats, wikipedia, scraping] 
+tags: [analysis, wikipedia, scraping] 
 subtitle: ''
 summary: 'An analysis of Wikipedia editing history for potential Vice Presidental picks.'
 authors: []

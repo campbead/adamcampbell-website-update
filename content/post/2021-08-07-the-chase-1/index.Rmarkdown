@@ -4,7 +4,7 @@ author: Adam J Campbell
 date: '2021-07-03'
 slug: the-chase-1
 categories: []
-tags: [The Chase, statistics] 
+tags: [The Chase, statistics, analysis] 
 subtitle: ''
 summary: "A deep dive into trends and analysis of the TV's The Chase"
 authors: []
@@ -16,6 +16,12 @@ image:
   preview_only: true
 projects: []
 
+
+links:
+ - name: "code"
+   url: https://github.com/campbead/thechase
+   icon_pack: fab
+   icon: github
 
 ---
 

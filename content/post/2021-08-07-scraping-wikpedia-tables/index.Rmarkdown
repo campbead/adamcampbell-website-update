@@ -4,7 +4,7 @@ author: Adam J Campbell
 date: '2020-06-23'
 slug: scraping-wikpedia-tables
 categories: []
-tags: [rstats, wikipedia, scraping, data] 
+tags: [rstats, wikipedia, scraping, rvest] 
 subtitle: ''
 summary: 'A quick how-to guide on scraping tables from Wikipedia, using R.'
 authors: []
@@ -15,6 +15,11 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+links:
+ - name: "twitter"
+   url: https://twitter.com/campbead/status/1277452002960609281
+   icon_pack: fab
+   icon: twitter
 ---
 
 Want to know how get data from a [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) table into your R script?  Look no further.  

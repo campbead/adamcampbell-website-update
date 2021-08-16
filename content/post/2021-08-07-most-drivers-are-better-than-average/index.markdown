@@ -4,7 +4,7 @@ author: Adam J Campbell
 date: '2020-07-20'
 slug: most-drivers-are-better-than-average
 categories: []
-tags: [rstats, ggplot2, driving, statistics] 
+tags: [analysis, driving, statistics] 
 subtitle: ''
 summary: 'Can most drivers be better than average?'
 authors: []
