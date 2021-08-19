@@ -11,7 +11,7 @@ authors: []
 #lastmod: '2021-08-07T12:45:19+12:00'
 featured: no
 aliases:
-   - [/post/the_chase_1/]
+   - /post/the_chase_1/
 image:
   caption: "How often players win the Head-to-Head based on Cash Builder performance"
   focal_point: 'Center'
