@@ -10,7 +10,7 @@ summary: ''
 authors: []
 #lastmod: '2021-08-06T07:49:23+12:00'
 featured: no
-draft: true
+draft: false
 image: 
   caption: 'Ranking states by density vs lived density'
   focal_point: 'Center'
