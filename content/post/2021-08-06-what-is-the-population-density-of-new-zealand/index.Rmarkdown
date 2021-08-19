@@ -16,7 +16,8 @@ image:
   focal_point: 'Center'
   preview_only: true
 projects: []
-
+aliases:
+   - /post/nz_population_density/
 links:
  - name: "code"
    url: https://github.com/campbead/Urbanization_NZ

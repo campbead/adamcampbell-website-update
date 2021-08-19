@@ -10,6 +10,8 @@ summary: ''
 authors: []
 #lastmod: '2021-08-07T19:50:50+12:00'
 featured: no
+aliases:
+    - /post/hydrometer_precision/
 image:
   caption: "Hydrometer reading"
   focal_point: 'Center'

@@ -10,6 +10,8 @@ summary: "About 2/3's the Earth's land in is the northern hemisphere.  How would
 authors: []
 #lastmod: '2021-08-07T19:43:25+12:00'
 featured: no
+aliases:
+    - /post/hemispheres/
 image:
   caption: 'One hundred ways to slice the Earth in half'
   focal_point: 'Center'

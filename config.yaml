@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Adam J Campbell PhD # Website name
 baseurl: 'https://www.adam-campbell.com/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Adam J Campbell' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

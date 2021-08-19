@@ -10,6 +10,8 @@ summary: ''
 authors: []
 #lastmod: '2021-08-07T19:47:06+12:00'
 featured: no
+aliases:
+ - /post/howdunedingetstowork/
 image:
   caption: 'How Dunedin Gets to Work App'
   focal_point: 'Center'

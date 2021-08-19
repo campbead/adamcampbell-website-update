@@ -10,6 +10,8 @@ summary: 'Can most drivers be better than average?'
 authors: []
 #lastmod: '2021-08-07T19:55:05+12:00'
 featured: no
+aliases:
+   - /post/mostdriversbetterthanaverage/
 image:
   caption: 'Number of citations drivers receive each year'
   focal_point: 'Center'

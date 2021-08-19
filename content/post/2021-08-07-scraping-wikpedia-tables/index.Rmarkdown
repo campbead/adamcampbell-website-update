@@ -10,6 +10,8 @@ summary: 'A quick how-to guide on scraping tables from Wikipedia, using R.'
 authors: []
 lastmod: '2021-08-07T20:42:55+12:00'
 featured: no
+aliases:
+   - /post/wikipedia_table_scrape/wikitablescrape/
 image:
   caption: ''
   focal_point: ''
