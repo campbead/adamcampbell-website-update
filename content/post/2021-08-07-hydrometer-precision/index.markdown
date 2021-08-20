@@ -19,29 +19,28 @@ image:
 projects: []
 ---
 
-
 I make beer as a hobby.  It's something I've been doing for over a decade and throughout the years my beer has improved dramatically.  One thing that I really like about beer making is the mathematical detail involved.  Recipes are precise to reach certain targets.  There are thousands of different ingredients and just as many different ways to use them. 
 
 The most frequent question about my beer is: *how much alcohol is in it?* The alcohol percentage, or Alcohol by Volume (ABV) is given by:
 
-`\(ABV = 131 \cdot (OG - FG)\)`, 
+$ABV = 131 \cdot (OG - FG)$, 
 
 where OG represents Original Gravity and FG represents Final (or Terminal) Gravity.  This is a very handy formula and is widely available on homebrewing forums and websites.  However, I have never come across discussion or calculation of the uncertainty in this calculation.  When I say uncertainty I mean the mathematical version the involves knowing how precisely you know something.
 
 ## The short answer
 
-If you use a hydrometer to measure both OG and FG, then your ABV precision is `\(\pm\)` 0.4%.  For example, if you measure an OG of 1.046 and an FG of 1.010, then your beer's ABV is 4.7% `\(\pm\)` 0.4%. 
+If you use a hydrometer to measure both OG and FG, then your ABV precision is $\pm$ 0.4%.  For example, if you measure an OG of 1.046 and an FG of 1.010, then your beer's ABV is 4.7% $\pm$ 0.4%. 
 
-If you use a refractometer to measure OG and a hydrometer to measure FG, then your ABV precision is `\(\pm\)` 0.3%.  For example, if you measure an OG of 1.051 and an FG of 1.012, then your beer's ABV is 5.1% `\(\pm\)` 0.3%. 
+If you use a refractometer to measure OG and a hydrometer to measure FG, then your ABV precision is $\pm$ 0.3%.  For example, if you measure an OG of 1.051 and an FG of 1.012, then your beer's ABV is 5.1% $\pm$ 0.3%. 
 
 
 ## The longer, more mathy answer
 
 To determine measurement error when using a calculation, we can use a [error propagation](https://en.wikipedia.org/wiki/Propagation_of_uncertainty) technique to determine the error in the final calculation.  We can apply this technique to the ABV formula above:
 
-`\(\delta ABV = 131 \cdot \sqrt{\delta OG^2 + \delta FG^2}\)`,
+$\delta ABV = 131 \cdot \sqrt{\delta OG^2 + \delta FG^2}$,
 
-where `\(\delta\)` represents the error in the measurement.
+where $\delta$ represents the error in the measurement.
 
 ### The common hydrometer
 
@@ -49,15 +48,15 @@ Hydrometers (as least every one that I have owned) has increments every 0.002 un
 
 ![](hydro_reading.jpg)
 
-For the example above I would read measurement as 1.022 `\(\pm\)` 0.002 . I measure from the top of the lip for this hydrometer which I calibrated.  I might write another post about how to calibrate a hydrometer in the future.
+For the example above I would read measurement as 1.022 $\pm$ 0.002 . I measure from the top of the lip for this hydrometer which I calibrated.  I might write another post about how to calibrate a hydrometer in the future.
 
-Using the error propagation formula above and a `\(\delta OG\)` and `\(\delta FG\)` of 0.002, results in a precision of `\(\pm\)` 0.4% ABV.
+Using the error propagation formula above and a $\delta OG$ and $\delta FG$ of 0.002, results in a precision of $\pm$ 0.4% ABV.
 
 ### Refractometers
 
 Refractometers are typically use to measure OG and are incrimented at 0.001 units.  This means the precision for refractometers is 0.001 units.  Refractometers are not suitable for measuring FG and a hydrometer is typically used for this measurement.
 
-Using the error propagation formula above and a `\(\delta OG\)` of 0.001 and `\(\delta FG\)` of 0.002, results in a precision of `\(\pm\)` 0.3% ABV.
+Using the error propagation formula above and a $\delta OG$ of 0.001 and $\delta FG$ of 0.002, results in a precision of $\pm$ 0.3% ABV.
 
 ### Other setups?
 
@@ -65,7 +64,7 @@ I'm not sure there are other setups for measuring OG and FG on the homebrew scal
 
 ## Conclusion
 
-Using a hydrometer you measure ABV with a precision of `\(\pm\)` 0.4% ABV.  Using a refractometer to measure OG and a hydrometer to measure FG, then you measure ABV with a precision of `\(\pm\)` 0.3%. 
+Using a hydrometer you measure ABV with a precision of $\pm$ 0.4% ABV.  Using a refractometer to measure OG and a hydrometer to measure FG, then you measure ABV with a precision of $\pm$ 0.3%. 
 
 
 

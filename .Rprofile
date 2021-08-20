@@ -18,6 +18,7 @@ options(
   blogdown.author = "Adam J Campbell",
   blogdown.subdir = "post",
   blogdown.ext = ".Rmarkdown",
+  blogdown.protect.math = FALSE,
   # build .Rmd to .html (via Pandoc); to build to Markdown, set this option to 'markdown'
   blogdown.method = 'html'
 )
