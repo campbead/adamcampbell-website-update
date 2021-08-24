@@ -20,7 +20,7 @@
     {{ if eq $page.Type "publication" }}
       {{ $Odate = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
     {{ end }}
-  Published {{ $Odate }} 
+  Published on {{ $Odate }} 
   </span>
 
   <span class="article-date">
