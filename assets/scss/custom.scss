@@ -1,3 +1,7 @@
 .card .card-image.hover-overlay::after{
     content: '\f0fc';
 }
+
+a.btn-cv:hover {
+    text-decoration: unset;
+}
