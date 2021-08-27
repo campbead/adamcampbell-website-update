@@ -16,8 +16,27 @@ image:
   caption: 'Number of citations drivers receive each year'
   focal_point: 'Center'
   preview_only: true
+  alt_text: ''
 projects: []
 ---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+
+knitr::knit_hooks$set(plot = function(x,options) {
+      base = knitr::opts_knit$get('base.url')
+      if (is.null(base)) base = ''
+      alt = ifelse (is.null(options$alt),"",options$alt)
+      cap = ifelse (is.null(options$caption),"",options$caption)
+      if (alt != ""){
+        sprintf('![%s](%s%s "%s")', cap, base, x, alt)
+      } else {
+        sprintf('![%s](%s%s)', cap, base, x)  
+        }
+  })
+
+```
+
 Around 88% of American drivers consider themselves to be above average at driving, [according to Psychological scientists at New York University](https://www.psychologicalscience.org/news/motr/when-it-comes-to-driving-most-people-think-their-skills-are-above-average.html). At face value this seems like a contradiction.  How could 88% of people be better than average? This is [often](https://www.treehugger.com/survey-finds-percent-americans-think-they-are-terrific-drivers-theyre-not-4856599) [been used](
 https://www.smithlawco.com/blog/2017/december/do-most-drivers-really-think-they-are-above-aver/
 ) as example of [Illusory superiority](https://en.wikipedia.org/wiki/Illusory_superiority#Driving_ability) where people over-rate their own ability and under-rate the abilities of others.  Illusory superiority is certainly a real effect and probably explains part of why American drivers rate themselves higher than Swedish drivers.  But what I want to demonstrate is that 88% percent of people rating themselves better than average is not an inherent contradiction.
@@ -32,7 +51,7 @@ The vast majority of drivers don't get a traffic citation in a given year.  Usin
 [^1]: data for repeat citations is incomplete and does indicate how often individuals received multiple citations, only that they received more than one.  Here I have assumed if an individual received more than one citation they received 2 citations.  The effect is that the average represents a lower bound.
 
 
-```{r echo=FALSE, message=FALSE, warning=FALSE}
+```{r myplot, echo=FALSE, message=FALSE, warning=FALSE, caption='bar graph of number is driving ciations drivers recieve each year in New Zealand. 3.368 million recieve zero, 0.01 million recieve 1, and 0.007 million recieved 2+', noalt=''}
 
 purp_538 <- "#a848e3"
 blue_538 <- "#3fc1c9"
@@ -65,7 +84,7 @@ ggplot(data = x, aes(x=as.character(number_citations), y=totals/ 10^6))+
 
 We could also consider as similar case of the average number of kidneys.  [Around 1 out of 750 people](https://kidney.org.au/uploads/resources/life-with-a-single-kidney-fact-sheet.pdf) are born with only one kidney while the rest are born with two kidneys.  This means the "average" person only has 1.999 kidneys and thus, nearly everyone has an above average amount of kidneys.
 
-```{r echo=FALSE, message=FALSE, warning=FALSE}
+```{r echo=FALSE, message=FALSE, warning=FALSE, capation = 'Bar chart of percent of poeple with 1 and 2 kidneys.  0.1% of people have 1 kidney, while 99.9% of people have 2.', noalt=''}
 
 x <- data.frame("number_kidney" = 1:2, "totals" = c(1/750, 749/750 ))
 

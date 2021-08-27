@@ -15,6 +15,7 @@ image:
   caption: 'Ranking states by density vs lived density'
   focal_point: 'Center'
   preview_only: true
+  alt_text: "Data graphic of relative position of US states (plus New Zealand) in terms of population density and lived density."
 projects: []
 aliases:
    - /post/nz_population_density/
@@ -52,7 +53,7 @@ Let’s start by considering two hypothetical cities: Pinksville and Bluetopia. 
 
 ### Population distributions for Pinksville and Bluetopia
 
-![](popdensity.png)
+![Cartoon illustrating how in two hypothetical cities (Pinksville and Bluetopia) can have same population, area, and population density. In Pinksville the popuatlion is spread uniformly across area, in Bluetopia the population is clustered in one region, therefore the lived density of Bluetopia is much higher than Pinksville.](popdensity.png)
 
 In Pinksville, people are very spread apart - indeed in every single square-kilometer of Pinksville, resides exactly one person. This stands in contrast to Bluetopia, where the entire population lives in a 4 square-kilometer corner of the city, while the remainder of the city is uninhabited. It turns out that cities, states and countries have population distributions that resemble Bluetopia where people live in clusters more then they represent Pinksville where everyone is smoothly distributed. Lived density is a better measure because it represents the density for which most people experience.
 
@@ -81,7 +82,7 @@ Many states rankings don’t change much going from population density measure t
 
 If we map the spatial pattern in the lived density ratio, we can see that Western states are have a larger ratio than Eastern states. Here I use a logarithmic scale of density ratio to color the map, which I call the density factor.
 
-![](density_ratio_map.png)
+![Chloropleth map of ratio of lived density to population density, including all 50 US states and New Zealand.](density_ratio_map.png)
 This density factor gives a measure of how clustered the population is versus how spread out the population is. Lower density factors mean the population of the region is more evenly distributed (like Pinksville), while higher numbers mean the population is more clustered like (like Bluetopia). Largely, states in the Western USA are more clustered than the Eastern USA states.
 
 ### Takeaways

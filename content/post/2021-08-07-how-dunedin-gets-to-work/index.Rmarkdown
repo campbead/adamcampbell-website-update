@@ -16,6 +16,7 @@ image:
   caption: 'How Dunedin Gets to Work App'
   focal_point: 'Center'
   preview_only: true
+  alt_text: "Screenshot of How Dunedin Gets to Work app"
 projects: []
 
 links:

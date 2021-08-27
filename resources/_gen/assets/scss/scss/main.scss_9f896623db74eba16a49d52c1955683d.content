@@ -9486,3 +9486,9 @@ div.chart {
   margin-right: auto;
   margin-bottom: 1rem;
   overflow-x: auto; }
+
+.card .card-image.hover-overlay::after {
+  content: '\f0fc'; }
+
+a.btn-cv:hover {
+  text-decoration: unset; }

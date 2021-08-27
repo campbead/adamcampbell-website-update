@@ -38,7 +38,7 @@ I'm going to show you to scrape data from any Wikipedia table using Firefox brow
 
 I'll show how to change the above code into a code to scrape the table I was interested in, which was the [attendance size of Trump's rallies](https://en.wikipedia.org/wiki/List_of_rallies_for_the_2016_Donald_Trump_presidential_campaign).  Here, I'd like to scrape the `Primary rallies (June 2015–June 2016) ` table.
 
-![](Wiki_trump_rallies.png)
+![Screen clip of table 'Primary rallies' from the List of rallies for the 2016 Donald Trump presidential campaign wiki ](Wiki_trump_rallies.png)
 
 The first thing to change is the `read_html()` line:
 
@@ -57,11 +57,11 @@ The next thing to change is the `html_node()` line.  For this this you'll have t
 
 Inspect the table you're interested in and you'll see a line starting `<table class= ...`
 
-![](wikitable_example.png)
+![Screen capture of inspector, highlighting line <table class= ...](wikitable_example.png)
 
 Right click on that line and select `Copy` -> `XPath`
 
-![](copy_xcode.png)
+![image displaying how to copy xpath](copy_xcode.png)
 
 
 then update the with `html_node` line, using the `xpath` flag:

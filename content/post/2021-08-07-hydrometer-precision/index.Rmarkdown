@@ -16,6 +16,7 @@ image:
   caption: "Hydrometer reading"
   focal_point: 'Center'
   preview_only: true
+  alt_text: "Hydrometer floating in beer in a reading cylinder, reading a value of 1.022"
 projects: []
 ---
 
@@ -46,7 +47,7 @@ where $\delta$ represents the error in the measurement.
 
 Hydrometers (as least every one that I have owned) has increments every 0.002 units.  This means the precision for hydrometers is 0.002 units.  
 
-![](hydro_reading.jpg)
+![Hydrometer floating in beer in a reading cylinder, reading a value of 1.022](hydro_reading.jpg)
 
 For the example above I would read measurement as 1.022 $\pm$ 0.002 . I measure from the top of the lip for this hydrometer which I calibrated.  I might write another post about how to calibrate a hydrometer in the future.
 
