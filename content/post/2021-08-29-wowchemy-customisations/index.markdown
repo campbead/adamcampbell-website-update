@@ -1,7 +1,7 @@
 ---
 title: Wowchemy customisations
 author: Adam J Campbell
-date: '2021-09-22'
+date: '2021-09-21'
 slug: wowchemy-customisations
 categories: []
 tags: []
@@ -12,7 +12,7 @@ authors: []
 #lastmod: '2021-08-29T06:35:17+12:00'
 featured: no
 image:
-  caption: ''
+  caption: 'graphic with text: wowchemy customisations'
   focal_point: 'Center'
   preview_only: no
   alt_text: 'graphic with text: wowchemy customisations'
