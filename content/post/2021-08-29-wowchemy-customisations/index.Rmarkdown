@@ -12,7 +12,7 @@ authors: []
 #lastmod: '2021-08-29T06:35:17+12:00'
 featured: no
 image:
-  caption: 'graphic with text: wowchemy customisations'
+  caption: ''
   focal_point: 'Center'
   preview_only: no
   alt_text: 'graphic with text: wowchemy customisations'
