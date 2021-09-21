@@ -8,12 +8,12 @@ tags: []
 subtitle: ''
 summary: ''
 authors: []
-draft: false
+#draft: false
 #lastmod: '2021-08-29T06:35:17+12:00'
 featured: no
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'Center'
   preview_only: no
   alt_text: 'graphic with text: wowchemy customisations'
 projects: []
@@ -110,7 +110,7 @@ It has the format:
 
 for example:
 
-```![Histrogram distrobution of correct answers during Cash Builder round.](correct_answer_distribution.png)```.
+`![Histrogram distrobution of correct answers during Cash Builder round.](correct_answer_distribution.png)`.
 
 ## Aliases
 One thing that happened when I upgraded the site from Hugo to Wowchemy is that the addresses of my posts changed.  So if there was a social media post with a link to the old address of a post, the link wouldn't work.  To get around this, I set an alias in the front matter of each post.  
