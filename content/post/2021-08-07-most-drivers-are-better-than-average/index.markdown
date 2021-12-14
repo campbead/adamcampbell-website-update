@@ -22,7 +22,9 @@ projects: []
 
 
 
-Around 88% of American drivers consider themselves to be above average at driving, [according to Psychological scientists at New York University](https://www.psychologicalscience.org/news/motr/when-it-comes-to-driving-most-people-think-their-skills-are-above-average.html). At face value this seems like a contradiction.  How could 88% of people be better than average? This is [often](https://www.treehugger.com/survey-finds-percent-americans-think-they-are-terrific-drivers-theyre-not-4856599) [been used](
+*Update (14 Dec 2021):  Thank you to [William Medwid](https://www.williammedwid.com/) for reaching out and correcting  attribution errors that appeared this post.*
+
+Around 88% of American drivers considered themselves to be above average at driving, [according to a Swedish study published in 1981](https://doi.org/10.1016/0001-6918(81)90005-6https://doi.org/10.1016/0001-6918(81)90005-6). At face value this seems like a contradiction.  How could 88% of people be better than average? This has [often](https://www.psychologicalscience.org/news/motr/when-it-comes-to-driving-most-people-think-their-skills-are-above-average.html) [been used](
 https://www.smithlawco.com/blog/2017/december/do-most-drivers-really-think-they-are-above-aver/
 ) as example of [Illusory superiority](https://en.wikipedia.org/wiki/Illusory_superiority#Driving_ability) where people over-rate their own ability and under-rate the abilities of others.  Illusory superiority is certainly a real effect and probably explains part of why American drivers rate themselves higher than Swedish drivers.  But what I want to demonstrate is that 88% percent of people rating themselves better than average is not an inherent contradiction.
 
@@ -45,3 +47,4 @@ We could also consider as similar case of the average number of kidneys.  [Aroun
 It is a common problem to confuse "average" with "most".  While the average person has 1.999 kidneys.  Most people have two kidneys and no one has 1.999 kidneys.  Likewise with drivers, the average person gets 0.007 citations in a year, but most get 0 citations.  
 
 There are many other factors that determine driving ability, than just the number of citations people receive, and these numbers don't consider things like time spent driving or distance driven.   But I would argue that number citations is a good baseline for considering driving ability and in broad-terms, not many people receive citations.  Therefore it seems that most drivers are better than average.  
+
