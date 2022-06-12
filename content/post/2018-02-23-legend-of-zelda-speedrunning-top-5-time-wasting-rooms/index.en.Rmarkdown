@@ -44,7 +44,7 @@ For this first post, I’ll be exploring which rooms are the biggest time waster
 
 ## #5 Dungeon 2 — Red [Goriya](https://zelda.gamepedia.com/Goriya) room
 
-<iframe src="https://clips.twitch.tv/embed?clip=CovertFrozenCobblerNinjaGrumpy&parent=www.adam-campbell.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=SweetBillowingTermiteAsianGlow&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ![](blank.png "Entering this room with bombs seems to be the key to a fast time")
 
