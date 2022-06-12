@@ -17,6 +17,17 @@ image:
   preview_only: true
   alt_text: 'Link holding Triforce'
 projects: []
+
+links:
+ - name: "code"
+   url: https://github.com/campbead/LoZscraper
+   icon_pack: fab
+   icon: github
+ - name: "original post"
+   url: https://campbead.medium.com/legend-of-zelda-speedrunning-top-5-time-wasting-rooms-3f3a311d16e8
+   icon_pack: fab
+   icon: medium
+
 ---
 
 Note: this article was originially published on [Medium](https://campbead.medium.com/legend-of-zelda-speedrunning-top-5-time-wasting-rooms-3f3a311d16e8).
