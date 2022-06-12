@@ -86,7 +86,7 @@ Killing the Darknuts in this room will result in a bomb drop, i.e. a bomb that c
 
 ## #2 (tied) Dungeon 8 — Second Blue Darknut Room
 
-<iframe src="https://clips.twitch.tv/embed?clip=PlayfulWildCheetahBCouch&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=PlayfulWildCheetahBCouch&parent=www.adam-campbell.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 ![](blank.png "Arcus most clear 6 Blue Darknuts here")
 
@@ -102,7 +102,7 @@ The late era runs (which I define as the most recent half) are about 2 seconds f
 
 ## #1 Dungeon 5 — The Olive Garden
 
-<iframe src="https://clips.twitch.tv/embed?clip=CovertFrozenCobblerNinjaGrumpy&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=CovertFrozenCobblerNinjaGrumpy&parent=www.adam-campbell.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 For watchers of Argus’ stream there was never any question as to which room is the most troublesome of the room run. Yes it’s the infamous “Olive Garden.” This screen has a HUGE potential time saving with the best times clocking in **8.2 seconds** shorter than most completions.
 
