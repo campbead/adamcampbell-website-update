@@ -30,7 +30,7 @@ links:
 
 ---
 
-Note: this article was originially published on [Medium](https://campbead.medium.com/legend-of-zelda-speedrunning-top-5-time-wasting-rooms-3f3a311d16e8).
+_Note: this article was originially published on [Medium](https://campbead.medium.com/legend-of-zelda-speedrunning-top-5-time-wasting-rooms-3f3a311d16e8)._
 
 A few months ago I discovered the Retro channel on Twitch where folks play a lot of classic NES and SNES video games that I remember fondly from my childhood. My attention was quickly drawn toward one streamer in particular, [Arcus87](https://www.twitch.tv/arcus87) who was attempting to speedrun the Legend of Zelda in under 30 minutes ([a goal he recently achieved in January](https://www.twitch.tv/videos/220036001)). At the time I was vaguely familiar with speedrunning and video game competitions, having watched the King of Kong and few YouTube videos on the [history of speedrunning](https://www.youtube.com/channel/UCtUbO6rBht0daVIOGML3c8w). Heck, I even remember having informal Super Mario Brother speedrunning competitions in my college dorm. But until I watched Arcus I hadn’t realized just how active the speedrunning community is with competitors and fans alike.
 
