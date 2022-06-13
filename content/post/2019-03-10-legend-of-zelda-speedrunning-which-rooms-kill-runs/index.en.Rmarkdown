@@ -4,18 +4,30 @@ author: Adam J Campbell
 date: '2019-03-10'
 slug: legend-of-zelda-speedrunning-which-rooms-kill-runs
 categories: []
-tags: []
+tags: [speedrunning, Legend of Zeland, analysis]
 subtitle: ''
 summary: ''
 authors: []
-draft: true
-lastmod: '2022-06-13T12:37:14+12:00'
+draft: false
+#lastmod: '2022-06-13T12:37:14+12:00'
 featured: no
 image:
-  caption: ''
+  caption: 'Center'
   focal_point: ''
-  preview_only: no
+  preview_only: true
+  alt_text: 'Overworld double hundo route'
 projects: []
+
+links:
+ - name: "code"
+   url: https://github.com/campbead/LoZscraper
+   icon_pack: fab
+   icon: github
+ - name: "original post"
+   url: https://campbead.medium.com/legend-of-zelda-speedrunning-which-rooms-kill-runs-75c2b44d00d2
+   icon_pack: fab
+   icon: medium
+
 ---
 _Note: this article was originially published on [Medium](https://campbead.medium.com/legend-of-zelda-speedrunning-which-rooms-kill-runs-75c2b44d00d2)._
 
