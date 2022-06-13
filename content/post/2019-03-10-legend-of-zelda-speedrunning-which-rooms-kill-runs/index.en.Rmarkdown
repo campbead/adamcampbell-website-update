@@ -34,13 +34,11 @@ At the time I was also deciding that I wanted to leave the academic world and tr
 
 A few things you should know about speedrunning before we get started. The Legend of Zelda has different rooms (also called screens), that the player has to travel through to eventually win the game. The Legend of Zelda is open in that the player is free to choose different paths to accomplish this goal. In speedrunning however, predefined routes are used to beat the game is the shortest time possible.
 
-INSERT WORLD MAP
-caption:The Double Hundo route has 9 overworld sections O1-O9 and 9 dungeons D1-D9 (note the dungeons are played out of order).
+![The Double Hundo route has 9 overworld sections O1-O9 and 9 dungeons D1-D9 (note the dungeons are played out of order).](overworld-map.png "The Double Hundo route has 9 overworld sections O1-O9 and 9 dungeons D1-D9 (note the dungeons are played out of order).")
 
 Arcus mostly ran what he called the “Double Hundo” route, named for the two 100 rubie secret rooms he visited on the route. He did a lot of runs (9472) in this push but I only was able to download videos for the most recent 4581 of Arcus’ runs. Let’s take a look at the rooms where those runs ended.
 
-INSERT FIGURE OF DEATHS
-caption:die often and die fast — most of Arcus’ run ended before completing even one dungeon. each dot here represents deaths for an individual screen
+![die often and die fast — most of Arcus’ run ended before completing even one dungeon. each dot here represents deaths for an individual screen](reset_count_graphic.png "die often and die fast — most of Arcus’ run ended before completing even one dungeon. each dot here represents deaths for an individual screen")
 
 On the figure we have dots representing rooms ordered in their position on the route on the horizontal (x-axis) and the number of times Arcus entered that room on the vertical (y-axis). We can see that the overwhelming majority of runs ended before Arcus completed his first dungeon (which in this route is Dungeon 3, remember players are mostly free to choose the order the complete the dungeons). We can also see that Arcus completed his run 102 times in this data set, or about 2.2% of the time.
 
