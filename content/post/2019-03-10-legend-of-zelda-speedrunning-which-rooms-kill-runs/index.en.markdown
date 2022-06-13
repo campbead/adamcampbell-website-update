@@ -8,7 +8,7 @@ tags: [speedrunning, Legend of Zeland, analysis]
 subtitle: ''
 summary: ''
 authors: []
-draft: true
+draft: false
 #lastmod: '2022-06-13T12:37:14+12:00'
 featured: no
 image:
