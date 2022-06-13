@@ -53,52 +53,52 @@ We’re going to look at a simple question while examining my Arcus87 data set, 
 The **reset count** gives a clear indication of which room are most troublesome in shear numbers. It is heavily weighted toward the beginning of the run, as you can easily see in the above figure. If the run gets off to a bad start, it’s likely to be reset. The **reset fraction** however, gives a better indication of the rooms overall difficulty of the room by showing us just how often that room killed a run. It’s for that reason that I’ll use the **reset fraction** as my metric for evaluating which rooms kill runs the most often.
 
 ### #10 — Dungeon 4 — Vire Room (before boss)
-INSERT TWITCH EMBED
+<iframe src="https://clips.twitch.tv/embed?clip=ConfidentTolerantJamPJSalt&parent=www.adam-campbell.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 Here Arcus must defeat 5 Vires before moving on to the next room. Coming into the room with a maximum of 4 hearts means the margin for error here is small. Vires, once they are hit split into two red Keese meaning there are actually 15 enemies to defeat on this screen. Arcus mitigates this using bombs, which are capable of killing Vires and the Keese they spawn. This room resulted in a death/reset about 12% of the time or 105 times in the runs I examined.
 
 ### #9 and #8 — Overworld 1 — Screen wraps
-INSERT TWITCH EMBED
+<iframe src="https://clips.twitch.tv/embed?clip=DullBlueDadBleedPurple&parent=www.adam-campbell.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 I’m going to count these rooms together since they are sequential rooms and they really have the same root cause of failure, the screen wrap. At a few points in the run, Arcus must perform a neat little trick called the screen wrap which allows him to warp Link from the right edge of the screen to the left edge of the screen. I’ll fully admit I spent about 30 minutes trying to do this technique at home and was not successful once! These room are the 2nd and 3rd rooms of the run. So Arcus doesn’t accept any failures here, if he misses a screen wrap here, he just resets the run. There are some screen wraps later in the run where a failure to execute this move is tolerated.
 
 Individually, he’s able to pull off the move about 87% of the time. Which means that taken together these rooms kill about 1/4 runs, or 1054 runs total. WOW!
 
 ### #7 — Dungeon 5 — Digdogger (boss)
-INSERT TWITCH EMBED
+<iframe src="https://clips.twitch.tv/embed?clip=RacyAltruisticOtterTebowing&parent=www.adam-campbell.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 The Digdogger is a fast moving boss that needs to be killed a particular way. First the flute is used to transform the Digdogger into his second form. Then Arcus uses bomb to damage the boss and finishes him off with the sword. All the while he’s being shot at by Stone Statues. This room resulted in a death/reset about 14% of the time or 47 times in the runs I examined.
 
 ### #6 — Dungeon 9 — Gannon (final boss)
-INSERT TWITCH EMBED
+<iframe src="https://clips.twitch.tv/embed?clip=DeterminedAlluringAnacondaKeyboardCat&parent=www.adam-campbell.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 Gannon, the big boss. I was happy to see that Gannon made this list. He’s a tough boss and 15% of the time, Arcus would be defeated by him. I mean that’s actually pretty amazing that he’s able to defeat him 85% of the time. It’s probably a testament to all the work he has put into practicing these end-game rooms.
 
 ### #5 — Dungeon 3 — Red Darknut Room 2
-INSERT TWITCH EMBED
+<iframe src="https://clips.twitch.tv/embed?clip=WiseElegantEagleHumbleLife&parent=www.adam-campbell.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 In this room, Arcus faces off against 5 Darknuts. He must kill the Darknuts before the lower door opens allowing him to advance. This is a formidible task as this is his first Dungeon of the game and he only has a maximum of 3 hearts here. 18% the time he enters this room his run ends here.
 
 _Note: He actually enters this room twice, the statistics quoted here only refer the the 2nd time he enters this room, and has to defeat the Darknuts_
 
 ### #4 — Dungeon 4 — Geelok (boss)
-INSERT TWITCH EMBED
+<iframe src="https://clips.twitch.tv/embed?clip=OutstandingSmokyPelicanNerfRedBlaster&parent=www.adam-campbell.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 The Geelok is a tough boss the kills Arcus runs 24% of the time. This multi-headed boss gets more powerful as you damage it, with heads detaching from the main body and flying around to attack Link.
 
 ### #3 — Dungeon 3 — Red Darknut Room 1
-INSERT TWITCH EMBED
+<iframe src="https://clips.twitch.tv/embed?clip=BlightedLitigiousDinosaurDxAbomb&parent=www.adam-campbell.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 This is the first big test for Arcus in his speedrun. In this room he has to quickly get a bomb move on to the next room. If picks up an early bomb, he can move along early, otherwise he is forced to defeat all three for an early bomb drop. 25% of the time his run ends here. As mentioned in my previous blog post, this room has big spread of times is takes to clear, 5.4 seconds difference between his median time and the top 10% of times.
 
 ### #2 — Dungeon 5 — Blue Darknut 2 (aka the Olive Garden)
-INSERT TWITCH EMBED
+<iframe src="https://clips.twitch.tv/embed?clip=CovertFrozenCobblerNinjaGrumpy&parent=www.adam-campbell.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 Of all the rooms that standout as troublesome while watching Arcus play, the Olive Garden stands out as being the most troublesome. This room is brutal. He has to defeat 6 Blue Darknuts here to move on to grab the flute (or Bread-stick, if you’re a fan of Arcus). An enormous 30% of runs end here and when he is able to complete this room, there is an 8.2 second spread between his median completion time and his 10% best times.
 
 
 ### #1 — Dungeon 3 — Manhandla (boss)
-INSERT TWITCH EMBED
+<iframe src="https://clips.twitch.tv/embed?clip=ExquisiteWrongKumquatAliens&parent=www.adam-campbell.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 This boss a tough one. Arcus comes into this room with only 3 hearts max, so the margin for error is small. A bad bomb placement here can kill the run. Even if he does defeat the boss, if the total run time is too high here, he’s likely to just reset the run himself. The Manhandla room gets the best of 34% the rooms.
 
