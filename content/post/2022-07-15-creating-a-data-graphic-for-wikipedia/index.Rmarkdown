@@ -1,7 +1,7 @@
 ---
 title: 'HOW-TO: Create a data graphic for Wikipedia'
 author: Adam J Campbell
-date: '2022-07-16'
+date: '2022-07-15'
 slug: how-to-create-a-data-graphic-for-wikipedia
 categories: []
 tags:
