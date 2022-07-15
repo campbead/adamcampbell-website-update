@@ -1,7 +1,7 @@
 ---
 title: 'HOW-TO: Create a data graphic for Wikipedia'
 author: Adam J Campbell
-date: '2022-07-15'
+date: '2022-07-16'
 slug: how-to-create-a-data-graphic-for-wikipedia
 categories: []
 tags:
@@ -13,11 +13,12 @@ summary: ''
 authors: []
 #lastmod: '2022-07-15T12:04:15+12:00'
 featured: no
-draft: true
+draft: false
 image:
   caption: ''
-  focal_point: ''
-  preview_only: no
+  focal_point: 'Center'
+  preview_only: true
+  alt_text: 'data graphic of percentage of adult(15+) smokers in countries as a function of time (1980-2019)'
 projects: []
 links:
  - name: "code"
@@ -42,7 +43,7 @@ But you can use any method you please to create the code to generate the image. 
 ## Step 2 - Upload to Github
 Once your code is ready, you can upload to Github.  I won't go into the details here but [this is a good introduction to using Github if you need it](https://lab.github.com/githubtraining/introduction-to-github).
 
-The important part is to use the correct license with your Github Repository.  Wikimedia requires using a[ Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license for the image, so I chose to use the same license for the code to generate the image. 
+The important part is to use the correct license with your Github Repository.  Wikimedia Commons requires using a[ Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license for the image, so I chose to use the same license for the code to generate the image. 
 
 Unfortunately, this license isn't a default license on Github so you'll have to generate the license yourself.  However, I found a great resource to use the [CC Attribution-ShareAlike 4.0 International license](https://github.com/santisoler/cc-licenses#cc-attribution-sharealike-40-international).  That guide shows how to update your README.md and LICENSE files in your Github repository with the appropriate details.
 
