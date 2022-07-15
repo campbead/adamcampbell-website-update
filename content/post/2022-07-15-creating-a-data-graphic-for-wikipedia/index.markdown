@@ -46,9 +46,9 @@ The important part is to use the correct license with your Github Repository.  W
 Unfortunately this license isn't a default license on Github so you'll have to generate the license yourself.  However, I found a great resource to use the [CC Attribution-ShareAlike 4.0 International license](https://github.com/santisoler/cc-licenses#cc-attribution-sharealike-40-international).  This guide shows how to update your README.md and LICENSE files in your Github repository with the appropriate details.
 
 ## Step 3 - Upload to Wikimedia
-Now with your graphic created, and your code published, you can publish your graphic to [Wikimedia Commons](https://commons.wikimedia.org).  First create an account if you don't have one (this can also be used to edit Wikipedia). Secondly, navigate to *Upload file* under the *Participate* heading. 
+Now with your graphic created, and your code published, you can publish your graphic to [Wikimedia Commons](https://commons.wikimedia.org).  First create an account if you don't have one (this can also be used to edit Wikipedia). Secondly, navigate to **Upload file** under the **Participate** heading. 
 
-The page you guide you through the process. You'll upload the image, certify it's your own work, and then describe the image.  Once you reach the *Add data* tab you'll want to add two references.  First add the link to your Github repository to the *source code repository* field, and add the link to the source data to the *external data available* field.
+The page you guide you through the process. You'll upload the image, certify it's your own work, and then describe the image.  Once you reach the **Add data** tab you'll want to add two references.  First add the link to your Github repository to the **source code repository** field, and add the link to the source data to the **external data available** field.
 
 - Upload to wikimedia
 -- setting References 
