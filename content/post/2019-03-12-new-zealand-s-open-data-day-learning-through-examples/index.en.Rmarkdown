@@ -15,7 +15,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-  alt_text: ""
+  alt_text: ''
 projects: []
 ---
 
