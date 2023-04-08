@@ -15,7 +15,7 @@ image:
   caption: ''
   focal_point: ''
   preview_only: no
-  alt_text: 'image credit: [Ainali — Wikimedia](https://commons.wikimedia.org/wiki/File:Open_data_large_color_(vector).svg)'
+  alt_text: ""
 projects: []
 ---
 
