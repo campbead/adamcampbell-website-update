@@ -1,0 +1,35 @@
+---
+title: New Zealand’s Open Data Day— learning through examples
+author: Adam J Campbell
+date: '2019-03-12'
+slug: new-zealand-s-open-data-day-learning-through-examples
+categories: [open data]
+tags: []
+subtitle: ''
+summary: 'Using open data for learning R'
+authors: []
+draft: false
+#lastmod: '2023-04-08T14:03:47+12:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+  alt_text: 'image credit: [Ainali — Wikimedia](https://commons.wikimedia.org/wiki/File:Open_data_large_color_(vector).svg)'
+projects: []
+---
+
+*image credit: [Ainali — Wikimedia](https://commons.wikimedia.org/wiki/File:Open_data_large_color_(vector).svg)*
+
+On 2 March 2019, I participated in New Zealand’s [Open Data Day](https://opendataday.org/). For this year, we at the Dunedin Open Data Meetup got together to do quick usage examples of New Zealand open data sources. This project is available on [GitHub](https://github.com/data-govt-nz/NZdataExamples) and we invite anyone with an interest in New Zealand open data to participate.
+
+Recently I have become active in New Zealand’s Open Data community by attending Dunedin’s Meetup and volunteering to help organise events. I like that more that data is accessible to everyone, the more opportunities arise for individuals to interact and develop their own data-based insights. For the theme of this event, we identified that simply making data available, while a great first step, isn’t enough to make analysis and insight open to everyone. Therefore we have been working to create great examples of open data usage and analysis.
+
+We got together and brainstormed a list of all the open data in New Zealand that we were interested in exploring. After deciding who was going to explore each dataset we started figuring out how to get the data and analyse it. At this meetup we decided to use R because is the software we all had the most shared experience with. My own experience with R was rather limited. It was wonderful to sit down with some very skilled R users and get the hands on feedback. It’s great to be shown a shortcut that might take you hours to figure out on your own while shuffling through Stack Overflow articles.
+My data exploration
+
+At the meetup I focused in out exploring New Zealand’s tourism data which is available through Stats NZ’s [Infoshare](http://archive.stats.govt.nz/infoshare/Default.aspx). This data repository actually has a ton of useful data in many different sectors like Health or Industry. I would encourage people to browse and have a look to see what is available. I was initially curious about tourism data because I was wondering how big of an impact was created the Ed Sheeran concert in Dunedin in 2018. I explored this by looking at monthly hotel occupancy rates. It turns outs that it didn’t have a huge impact on the monthly data (on the high end but, within 2 standard deviations). I suspect that was because it’s monthly data so it’s rather course. You can see my analysis on my repository.
+
+![Occupancy rates for accommodations in Dunedin by month](data_graphic.png)
+
+I would highly recommend participating to help out with NZ Open Data. I had such an exciting time hearing about what other people were interested in. For me the biggest help was to get that hands on feedback from others, all of whom were very eager to help. There are open data meetups throughout the country that can help you get started.
