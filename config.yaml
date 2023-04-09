@@ -30,6 +30,7 @@ module:
 ## ADVANCED
 ############################
 
+ignoreErrors: error-remote-getjson
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
