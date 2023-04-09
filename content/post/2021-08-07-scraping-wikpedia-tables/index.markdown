@@ -26,7 +26,7 @@ links:
 
 Want to know how get data from a [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) table into your R script?  Look no further.  
 
-I was recently attempting to scrape a table from Wikipedia.  I was responding to a group chat and wanted to make a quick histogram (something I love about R and ggplot).  In my search, I came across this very helpful tweet from [Julia Silge](https://twitter.com/juliasilge):
+I was recently attempting to scrapgit push --set-upstream origin deve a table from Wikipedia.  I was responding to a group chat and wanted to make a quick histogram (something I love about R and ggplot).  In my search, I came across this very helpful tweet from [Julia Silge](https://twitter.com/juliasilge).  *update (10-April-2023): Julia Silge has since made her tweets protected and I have removed the link to the tweet* 
 
 
 
