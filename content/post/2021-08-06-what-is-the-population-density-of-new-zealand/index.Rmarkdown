@@ -39,7 +39,7 @@ Recently, it has been argued that New Zealand's success with dealing with Covid-
 Lived density is the population density experienced by the average person in the region.  For example the population density of New York State is 161 people per square-kilometer, but the average New York State resident lives in an area with 2,479 people per square-kilometer (the lived density).  There are a number of different [ways to](https://www.citylab.com/equity/2018/11/citylab-congressional-density-index/575749/) [compute](https://arxiv.org/pdf/2005.01167.pdf) [this](https://www.nytimes.com/2019/10/29/upshot/suburbs-demographics-red-blue.html) [number](https://fivethirtyeight.com/features/how-urban-or-rural-is-your-state-and-what-does-that-mean-for-the-2020-election/). Inspired by the following tweet from [Ryan Moulton](https://twitter.com/moultano), I computed the KL-divergence between the population distribution and the area distribution.  
 
 ```{r echo=FALSE}
-blogdown::shortcode('tweet', '1200500226177433600')
+blogdown::shortcode('tweet', user = "moultano", id = '1200500226177433600')
 ```
 
 I plan on going into detail on this a future post, in the meantime I've made the [source code available for this calculation](https://github.com/campbead/Urbanization_NZ). 
