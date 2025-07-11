@@ -31,10 +31,15 @@ links:
 ---
 
 <script src="{{< blogdown/postref >}}index_files/core-js/shim.min.js"></script>
+
 <script src="{{< blogdown/postref >}}index_files/react/react.min.js"></script>
+
 <script src="{{< blogdown/postref >}}index_files/react/react-dom.min.js"></script>
+
 <script src="{{< blogdown/postref >}}index_files/reactwidget/react-tools.js"></script>
+
 <script src="{{< blogdown/postref >}}index_files/htmlwidgets/htmlwidgets.js"></script>
+
 <link href="{{< blogdown/postref >}}index_files/reactable/reactable.css" rel="stylesheet" />
 <script src="{{< blogdown/postref >}}index_files/reactable-binding/reactable.js"></script>
 
@@ -54,7 +59,10 @@ Let’s start by considering two hypothetical cities: Pinksville and Bluetopia. 
 
 ### Population distributions for Pinksville and Bluetopia
 
-![Cartoon illustrating how in two hypothetical cities (Pinksville and Bluetopia) can have same population, area, and population density. In Pinksville the popuatlion is spread uniformly across area, in Bluetopia the population is clustered in one region, therefore the lived density of Bluetopia is much higher than Pinksville.](popdensity.png)
+<figure>
+<img src="popdensity.png" alt="Cartoon illustrating how in two hypothetical cities (Pinksville and Bluetopia) can have same population, area, and population density. In Pinksville the popuatlion is spread uniformly across area, in Bluetopia the population is clustered in one region, therefore the lived density of Bluetopia is much higher than Pinksville." />
+<figcaption aria-hidden="true">Cartoon illustrating how in two hypothetical cities (Pinksville and Bluetopia) can have same population, area, and population density. In Pinksville the popuatlion is spread uniformly across area, in Bluetopia the population is clustered in one region, therefore the lived density of Bluetopia is much higher than Pinksville.</figcaption>
+</figure>
 
 In Pinksville, people are very spread apart - indeed in every single square-kilometer of Pinksville, resides exactly one person. This stands in contrast to Bluetopia, where the entire population lives in a 4 square-kilometer corner of the city, while the remainder of the city is uninhabited. It turns out that cities, states and countries have population distributions that resemble Bluetopia where people live in clusters more then they represent Pinksville where everyone is smoothly distributed. Lived density is a better measure because it represents the density for which most people experience.
 

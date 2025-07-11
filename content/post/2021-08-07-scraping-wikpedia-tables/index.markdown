@@ -24,38 +24,60 @@ links:
    icon: twitter
 ---
 
-Want to know how get data from a [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) table into your R script? Look no further.
+Want to know how get data from a [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) table into your R script?  Look no further.  
 
-I was recently attempting to scrape a table from Wikipedia. I was responding to a group chat and wanted to make a quick histogram (something I love about R and ggplot). In my search, I came across this very helpful tweet from [Julia Silge](https://twitter.com/juliasilge):
+I was recently attempting to scrape a table from Wikipedia.  I was responding to a group chat and wanted to make a quick histogram (something I love about R and ggplot).  In my search, I came across this very helpful tweet from [Julia Silge](https://twitter.com/juliasilge). 
 
-{{% tweet "951639629182074880" %}}
+*Update 12-July-2025: this account has now gone private and this tweet can no longer be displayed but the code displayed in the tweet was:*
 
-This is great piece of quick code to scrape the data from the table. However this tweet is specific only to the example, and I want to generalize the code for any Wikipedia table.
+```
+    library(rvest)
+    library(tidyverse)
 
-I’m going to show you to scrape data from any Wikipedia table using Firefox browser and R (of course), although I’m sure this could be adapted to other browsers.
+    h <- read_html("https://t.co/gloY1eErBn")
 
-I’ll show how to change the above code into a code to scrape the table I was interested in, which was the [attendance size of Trump’s rallies](https://en.wikipedia.org/wiki/List_of_rallies_for_the_2016_Donald_Trump_presidential_campaign). Here, I’d like to scrape the `Primary rallies (June 2015–June 2016)` table.
+    reps <- h %>%
+    html_node("#mw-content-text > div > table:nth-child(18)") %>%
+    html_table()
 
-![Screen clip of table ‘Primary rallies’ from the List of rallies for the 2016 Donald Trump presidential campaign wiki](Wiki_trump_rallies.png)
+    reps <- reps[,c(1:2,4:9)] %>%
+    as_tibble()
+```
+
+This is great piece of quick code to scrape the data from the table.  However this tweet is specific only to the example, and I want to generalize the code for any Wikipedia table.
+
+I'm going to show you to scrape data from any Wikipedia table using Firefox browser and R (of course), although I'm sure this could be adapted to other browsers.  
+
+I'll show how to change the above code into a code to scrape the table I was interested in, which was the [attendance size of Trump's rallies](https://en.wikipedia.org/wiki/List_of_rallies_for_the_2016_Donald_Trump_presidential_campaign).  Here, I'd like to scrape the `Primary rallies (June 2015–June 2016) ` table.
+
+![Screen clip of table 'Primary rallies' from the List of rallies for the 2016 Donald Trump presidential campaign wiki ](Wiki_trump_rallies.png)
 
 The first thing to change is the `read_html()` line:
 
-    read_html("https://en.wikipedia.org/wiki/Current_members_of_the_United_States_House_of_Representatives")
+```{}
+read_html("https://en.wikipedia.org/wiki/Current_members_of_the_United_States_House_of_Representatives")
+```
+
 
 all we need to here is update the hyperlink by copying the web address of the wikipedia page:
 
-    read_html("https://en.wikipedia.org/wiki/List_of_rallies_for_the_2016_Donald_Trump_presidential_campaign")
+```{}
+read_html("https://en.wikipedia.org/wiki/List_of_rallies_for_the_2016_Donald_Trump_presidential_campaign")
+```
 
-The next thing to change is the `html_node()` line. For this this you’ll have to know the tag of the table in the html code. To find this you’ll have to [inspect the html code](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549) of the wikipedia page you’re looking at.
+The next thing to change is the `html_node()` line.  For this this you'll have to know the tag of the table in the html code.  To find this you'll have to [inspect the html code](https://www.lifewire.com/get-inspect-element-tool-for-browser-756549) of the wikipedia page you're looking at.
 
-Inspect the table you’re interested in and you’ll see a line starting `<table class= ...`
+Inspect the table you're interested in and you'll see a line starting `<table class= ...`
 
-![Screen capture of inspector, highlighting line &lt;table class= …](wikitable_example.png)
+![Screen capture of inspector, highlighting line <table class= ...](wikitable_example.png)
 
-Right click on that line and select `Copy` -&gt; `XPath`
+Right click on that line and select `Copy` -> `XPath`
 
 ![image displaying how to copy xpath](copy_xcode.png)
 
+
 then update the with `html_node` line, using the `xpath` flag:
 
-    html_node(xpath = '/html/body/div[3]/div[3]/div[4]/div/table[2]')
+```{}
+html_node(xpath = '/html/body/div[3]/div[3]/div[4]/div/table[2]')
+```
