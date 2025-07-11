@@ -26,9 +26,7 @@ links:
 
 Want to know how get data from a [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) table into your R script?  Look no further.  
 
-I was recently attempting to scrape a table from Wikipedia.  I was responding to a group chat and wanted to make a quick histogram (something I love about R and ggplot).  In my search, I came across this very helpful tweet from [Julia Silge](https://twitter.com/juliasilge):
-
-
+I was recently attempting to scrape a table from Wikipedia.  I was responding to a group chat and wanted to make a quick histogram (something I love about R and ggplot).  In my search, I came across this very helpful tweet from [Julia Silge](https://twitter.com/juliasilge). (Update 12-July-2025: this account has now gone private and this tweet can no longer be displayed)
 
 This is great piece of quick code to scrape the data from the table.  However this tweet is specific only to the example, and I want to generalize the code for any Wikipedia table.
 
