@@ -81,6 +81,8 @@ bar_chart <- function(label, width = "100%", height = "16px", fill = "#3fc1c9", 
 reactable(
   state_density,
   pagination = FALSE,
+  fullWidth = FALSE,
+  resizable = TRUE,
   defaultSorted = "lived_density", 
   defaultColDef = colDef(align = "left", 
                          defaultSortOrder = "desc", 
@@ -93,8 +95,9 @@ reactable(
   columns = list(
     STATE = colDef(
       name = "REGION",
+      sticky = "left",
       align = "left",
-      width = 120,
+      minWidth = 120,
       headerStyle = list(color = "black"),
       style = list(fontFamily = "Karla, Helvetica Neue, Helvetica, Arial, sans-serif", 
                     fontSize = "13.5px",
@@ -106,6 +109,7 @@ reactable(
     state_pop = colDef(
       name = "POPULATION",
       align = "right", 
+      minWidth = 120,
       headerStyle = list(color = "black"),
       format = colFormat(digits = 0, separators = TRUE)
      
@@ -114,6 +118,7 @@ reactable(
     state_land_area = colDef(
       name = "AREA",
       align = "right",
+      minWidth = 120,
       style = list(width = "50px" ,
                    fontFamily = "Fira Mono, Consolas, Monaco, monospace", 
                    fontSize = "13.5px",
@@ -130,6 +135,7 @@ reactable(
       name = "POPULATION DENSITY",
       format = colFormat(digits = 1, separators = TRUE),
       align = "right", 
+      minWidth = 200,
       style = list(width = "50px" ,
                    fontFamily = "Fira Mono, Consolas, Monaco, monospace",
                    fontSize = "13.5px",
@@ -145,6 +151,7 @@ reactable(
     lived_density = colDef(
       name = "LIVED DENSITY",
       align = "right", 
+      minWidth = 200,
       headerStyle = list(textAlign = "left", color = "black"),
       format = colFormat(digits = 0, separators = TRUE),
       cell = function(value) {
@@ -158,7 +165,7 @@ reactable(
     density_ratio = colDef(
       name = "RATIO",
       align = "right", 
-      width = 60,
+      minWidth = 60,
       headerStyle = list(color = "black"),
       format = colFormat(digits = 1, separators = TRUE),
       style = list(fontFamily = "Fira Mono, Consolas, Monaco, monospace",
