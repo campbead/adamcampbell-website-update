@@ -14,8 +14,9 @@ aliases:
    - /post/wikipedia_table_scrape/wikitablescrape/
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'Center'
   preview_only: no
+  alt_text: 'graphic with text: HOW TO: Scraping Wikipedia Tables'
 projects: []
 links:
  - name: "twitter"
