@@ -25,18 +25,41 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Kaitātari | Data Analyst
+  - title: Data Engineer
     company: Ministry for the Environment
     company_url: "https://environment.govt.nz/"
     location: (remote)
-    date_start: '2021-03-01'
-    #date_end: ''
+    date_start: '2023-04-01'
+    description: |2-
+      Building and maintaining ELT pipelines:
+      
+      * Data extraction from source systesm using AWS Lambda
+      * Loading data into Snowflake
+      * Transformation using dbt
+
+  - title: Kaitātari Matua | Seniror Data Analyst
+    company: Ministry for the Environment
+    company_url: "https://environment.govt.nz/"
+    location: (remote)
+    date_start: '2022-04-01'
+    date_end: '2023-04-01'
     description: |2-
       Responsibilities include:
     
       * R/Shiny app development and deployment
       * Statistical analysis
-      * Data engineering and management
+
+  - title: Kaitātari | Data Analyst
+    company: Ministry for the Environment
+    company_url: "https://environment.govt.nz/"
+    location: (remote)
+    date_start: '2021-03-01'
+    date_end: '2022-04-01'
+    description: |2-
+      Responsibilities include:
+    
+      * R/Shiny app development and deployment
+      * Statistical analysis
       
   - title: Geospatial Analyst
     company: Dunedin City Council
@@ -45,7 +68,7 @@ experience:
     date_start: '2018-08-01'
     date_end: '2021-03-01'
     description: |2-
-      Responsibilities include:
+      Responsibilities included:
   
       * Geospatial product development
       * Designing machine learning tools
