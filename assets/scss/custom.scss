@@ -5,3 +5,48 @@
 a.btn-cv:hover {
     text-decoration: unset;
 }
+
+/* Fix for card overlap issues */
+.projects-container {
+  position: relative;
+  width: 100%;
+}
+
+.project-card {
+  position: relative;
+  float: left;
+  margin-bottom: 20px;
+}
+
+/* Ensure proper spacing between cards */
+.project-card .card {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Fix for isotope layout issues */
+.isotope-item {
+  position: relative;
+  z-index: 2;
+}
+
+.isotope-item:hover {
+  z-index: 3;
+}
+
+/* Ensure cards don't overlap on different screen sizes */
+@media screen and (max-width: 1199px) {
+  .project-card {
+    width: calc(50% - 10px);
+    margin-right: 10px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .project-card {
+    width: 100%;
+    margin-right: 0;
+  }
+}
