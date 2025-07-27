@@ -31,11 +31,7 @@ experience:
     location: (remote)
     date_start: '2023-04-01'
     description: |2-
-      Building and maintaining ELT pipelines:
-      
-      * Data extraction from source systesm using AWS Lambda
-      * Loading data into Snowflake
-      * Transformation using dbt
+      Built a scalable data ingestion and processing system leveraging cloud technologies (AWS S3, Lambda, Snowflake, dbt-core) and an ELT framework, transforming ad-hoc manual updates into an automated, continuously-updated system. Implemented robust data quality checks and monitoring systems across the pipeline to ensure accuracy and integrity. This resulted in improved data efficiency, scalability, and reliability, enabling faster and more informed decision-making across the organization.
 
   - title: Kaitātari Matua | Seniror Data Analyst
     company: Ministry for the Environment
@@ -44,10 +40,7 @@ experience:
     date_start: '2022-04-01'
     date_end: '2023-04-01'
     description: |2-
-      Responsibilities include:
-    
-      * R/Shiny app development and deployment
-      * Statistical analysis
+      Delivered a critical public data product by aggregating, cleaning, and integrating datasets from 76 local councils into a unified, scalable system. Designed and deployed interactive dashboards to visualize complex data insights, enabling public accessibility and supporting data-driven decision-making for stakeholders.
 
   - title: Kaitātari | Data Analyst
     company: Ministry for the Environment
