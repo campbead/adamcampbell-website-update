@@ -43,7 +43,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://journalwebsite.com/article"
 url_video: ""
 
 # Featured image
@@ -68,18 +68,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-## Abstract
-
-This master's thesis presents a numerical model investigation of Crane Glacier's response to the collapse of the Larsen B ice shelf on the Antarctic Peninsula. The research examines the dynamic response of glaciers to ice shelf disintegration and provides insights into ice shelf-glacier interactions, which are crucial for understanding Antarctic ice dynamics and potential sea level rise.
-
-## Key Findings
-
-- Developed numerical models to simulate Crane Glacier response to ice shelf collapse
-- Examined the relationship between ice shelf disintegration and glacier acceleration
-- Provided insights into ice shelf-glacier interactions
-- Contributed to understanding of Antarctic Peninsula ice dynamics
-
-## Impact
-
-This thesis work has been cited 2 times and represents foundational research in understanding ice shelf-glacier interactions and their implications for sea level rise. 
