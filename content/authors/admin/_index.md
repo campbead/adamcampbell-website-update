@@ -18,14 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm Geospatial Data Analyst interested in data visualization, statistical problem solving, and data storytelling.
+bio: I'm a data professional interested in visualisation, automation,statistical problem solving, and storytelling.
 
 interests:
-- Data Visualization
+- Data Visualisation
 - Storytelling
 - Statistics
-- Geography
-- Artificial Intelligence
+- Automation
 
 education:
   courses:
@@ -75,4 +74,6 @@ user_groups:
 - Visitors
 ---
 
-I am a geospatial data analyst interested solving problems that are spatial in nature.  I use statistical techiniques to focus on data visualizations and storytelling.
+I am a data professional with diverse experience spanning data analysis, data engineering, and academic research. I'm passionate about telling compelling stories with data and discovering novel datasets that reveal unexpected insights. My work focuses on developing automated workflows and exploring innovative approaches to data exploration and visualisation.
+
+This website contains my writing on these topics, along with explorations of other subjects that capture my curiosity. From data visualisation techniques and statistical analysis to automation workflows and storytelling approaches, I share insights from my professional journey and ongoing learning. Please reach out if you'd like to know more about anything I discuss here or if you're interested in collaborating on similar projects.

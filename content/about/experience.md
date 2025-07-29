@@ -25,18 +25,34 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Data Engineer
+    company: Ministry for the Environment
+    company_url: "https://environment.govt.nz/"
+    location: (remote)
+    date_start: '2023-04-01'
+    description: |2-
+      Built a scalable data ingestion and processing system leveraging cloud technologies (AWS S3, Lambda, Snowflake, dbt-core) and an ELT framework, transforming ad-hoc manual updates into an automated, continuously-updated system. Implemented robust data quality checks and monitoring systems across the pipeline to ensure accuracy and integrity. This resulted in improved data efficiency, scalability, and reliability, enabling faster and more informed decision-making across the organization.
+
+  - title: Kaitātari Matua | Seniror Data Analyst
+    company: Ministry for the Environment
+    company_url: "https://environment.govt.nz/"
+    location: (remote)
+    date_start: '2022-04-01'
+    date_end: '2023-04-01'
+    description: |2-
+      Delivered a critical public data product by aggregating, cleaning, and integrating datasets from 76 local councils into a unified, scalable system. Designed and deployed interactive dashboards to visualize complex data insights, enabling public accessibility and supporting data-driven decision-making for stakeholders.
+
   - title: Kaitātari | Data Analyst
     company: Ministry for the Environment
     company_url: "https://environment.govt.nz/"
     location: (remote)
     date_start: '2021-03-01'
-    #date_end: ''
+    date_end: '2022-04-01'
     description: |2-
       Responsibilities include:
     
       * R/Shiny app development and deployment
       * Statistical analysis
-      * Data engineering and management
       
   - title: Geospatial Analyst
     company: Dunedin City Council
@@ -45,7 +61,7 @@ experience:
     date_start: '2018-08-01'
     date_end: '2021-03-01'
     description: |2-
-      Responsibilities include:
+      Responsibilities included:
   
       * Geospatial product development
       * Designing machine learning tools
