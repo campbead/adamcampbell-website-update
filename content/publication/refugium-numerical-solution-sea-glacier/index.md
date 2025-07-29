@@ -43,7 +43,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013JC009703"
 url_video: ""
 
 # Featured image
@@ -71,15 +71,10 @@ slides: ""
 
 ## Abstract
 
-This study presents a numerical solution for sea-glacier invasion through narrow straits during Snowball Earth events, building on earlier analytical work. The research provides more detailed insights into the potential for nearly-enclosed seas to serve as refugia for surface life during extreme global glaciation events.
+Where photosynthetic eukaryotic organisms survived during the Snowball Earth events of the Neoproterozoic remains unclear. Our previous research tested whether a narrow arm of the ocean, similar to the modern Red Sea, could have been a refugium for photosynthetic eukaryotes during the Snowball Earth. Using an analytical ice-flow model, we demonstrated that a limited range of climate conditions could restrict sea-glacier flow sufficiently to allow an arm of the sea to remain partially free from sea-glacier penetration, a necessary condition for it to act as a refugium. Here we expand on the previous study, using a numerical ice-flow model, with the ability to capture additional physics, to calculate sea-glacier penetration, and to explore the effect of a channel with a narrow entrance. The climatic conditions are made self-consistent by linking sublimation rate to surface temperature. As expected, the narrow entrance allows parts of the nearly enclosed sea to remain safe from sea-glacier penetration for a wider range of climate conditions.
 
 ## Key Findings
 
-- Developed numerical solutions for sea-glacier invasion through narrow straits
-- Enhanced understanding of Snowball Earth dynamics beyond analytical models
-- Provided more detailed insights into potential life refugia
-- Contributed to the broader understanding of extreme climate events
-
-## Impact
-
-This publication has been cited 9 times and represents an important advancement in numerical modeling of Snowball Earth dynamics. 
+- Inland seas could have been refugia for life during Snowball Earth events
+- Narrow entrances of inland sea restrict the flow of invading sea glaciers
+- Sea-glacier-free zones may have existed near narrow entrances

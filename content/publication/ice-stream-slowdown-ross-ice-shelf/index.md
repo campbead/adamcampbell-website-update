@@ -19,8 +19,6 @@ publication_types: ["2"]
 publication: "Geophysical Research Letters"
 publication_short: "Geophys. Res. Lett."
 
-abstract: "This study examines the long-term thinning of the Ross Ice Shelf driven by ice stream slowdown, demonstrating that this process will occur regardless of ocean warming. The research provides important insights into Antarctic ice shelf dynamics and future sea level rise."
-
 # Summary. An optional shortened abstract.
 summary: "Analysis of ice stream slowdown effects on Ross Ice Shelf thinning, independent of ocean warming."
 
@@ -43,7 +41,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL075794"
 url_video: ""
 
 # Featured image
@@ -71,15 +69,11 @@ slides: ""
 
 ## Abstract
 
-This study examines the long-term thinning of the Ross Ice Shelf driven by ice stream slowdown, demonstrating that this process will occur regardless of ocean warming. The research provides important insights into Antarctic ice shelf dynamics and future sea level rise, highlighting the complex interactions between ice streams and ice shelves.
+As time series observations of Antarctic change proliferate, it is imperative that mathematical frameworks through which they are understood keep pace. Here we present a new method of interpreting remotely sensed change using spatial statistics and apply it to the specific case of thickness change on the Ross Ice Shelf. First, a numerical model of ice shelf flow is used together with empirical orthogonal function analysis to generate characteristic patterns of response to specific forcings. Because they are continuous and scalable in space and time, the patterns allow short duration observations to be placed in a longer time series context. Second, focusing only on changes that are statistically significant, the synthetic response surfaces are used to extract magnitude and timing of past events from the observational data. Slowdown of Kamb and Whillans Ice Streams is clearly detectable in remotely sensed thickness change. Moreover, those past events will continue to drive thinning into the future.
 
 ## Key Findings
 
-- Demonstrated that ice stream slowdown will drive Ross Ice Shelf thinning
-- Showed this process occurs independently of ocean warming
-- Provided insights into long-term Antarctic ice shelf dynamics
-- Contributed to understanding of future sea level rise scenarios
 
-## Impact
-
-This publication has been cited 14 times and represents important work in understanding Antarctic ice shelf response to climate change and its implications for global sea level rise. 
+- A new physics-based, empirical method identifies drivers of contemporary thickness change on RIS
+- Response surface analysis finds physics-based synthetic modes of variability in observational data
+- Past tributary flux changes will continue to thin the RIS by several meters over the next century

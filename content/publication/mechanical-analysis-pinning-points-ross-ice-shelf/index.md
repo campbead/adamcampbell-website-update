@@ -19,8 +19,6 @@ publication_types: ["2"]
 publication: "Annals of Glaciology"
 publication_short: "Ann. Glaciol."
 
-abstract: "This study presents a mechanical analysis of pinning points in the Ross Ice Shelf, Antarctica. The research examines the role of pinning points in ice shelf stability and their contribution to the overall mechanical behavior of the ice shelf."
-
 # Summary. An optional shortened abstract.
 summary: "Mechanical analysis of pinning points and their role in Ross Ice Shelf stability and dynamics."
 
@@ -43,7 +41,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/877ECB65630C271FA866E15F8C16A53B/S0260305518000319a.pdf/mechanical-analysis-of-pinning-points-in-the-ross-ice-shelf-antarctica.pdf"
 url_video: ""
 
 # Featured image
@@ -71,15 +69,10 @@ slides: ""
 
 ## Abstract
 
-This study presents a mechanical analysis of pinning points in the Ross Ice Shelf, Antarctica. The research examines the role of pinning points in ice shelf stability and their contribution to the overall mechanical behavior of the ice shelf. Understanding these features is crucial for predicting ice shelf response to climate change.
-
-## Key Findings
-
-- Analyzed the mechanical properties of pinning points in the Ross Ice Shelf
-- Examined the role of pinning points in ice shelf stability
-- Provided insights into ice shelf dynamics and potential response to environmental changes
-- Contributed to understanding of Antarctic ice shelf mechanics
-
-## Impact
-
-This publication has been cited 29 times and represents important work in understanding Antarctic ice shelf dynamics and stability. 
+Ice shelves regulate the rate of ice-sheet discharge along much of the Antarctic coastline.
+Pinning points, sites of localised grounding within floating ice, can in turn, regulate the flow and 
+thickness of an ice shelf. While the net resistive effect of ice shelves has been quantified in a systematic way,
+few extant pinning points have been examined in detail. Here, complete force budgets are calculated and
+examined for ice rises and rumples in the Ross Ice Shelf, West Antarctica. The diverse features have different
+effects on ice shelf mechanics that do not depend simply on their size but may, we conclude,
+depend on the properties of seafloor materials.

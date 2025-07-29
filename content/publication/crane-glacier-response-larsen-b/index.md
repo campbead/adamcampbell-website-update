@@ -19,11 +19,6 @@ publication_types: ["7"]
 publication: "Portland State University. Department of Geology"
 publication_short: "Portland State University"
 
-abstract: "This master's thesis presents a numerical model investigation of Crane Glacier's response to the collapse of the Larsen B ice shelf on the Antarctic Peninsula. The research examines the dynamic response of glaciers to ice shelf disintegration and provides insights into ice shelf-glacier interactions."
-
-# Summary. An optional shortened abstract.
-summary: "Numerical modeling of Crane Glacier response to Larsen B ice shelf collapse."
-
 tags: ["glaciology", "ice shelf", "Antarctica", "Larsen B", "Crane Glacier", "numerical modeling", "thesis"]
 categories: ["research"]
 featured: false
@@ -43,7 +38,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: "https://journalwebsite.com/article"
+url_source: "https://search.library.pdx.edu/permalink/01ALLIANCE_PSU/1sk2t0o/alma99181994501853"
 url_video: ""
 
 # Featured image

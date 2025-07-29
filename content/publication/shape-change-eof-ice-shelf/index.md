@@ -19,8 +19,6 @@ publication_types: ["2"]
 publication: "Annals of Glaciology"
 publication_short: "Ann. Glaciol."
 
-abstract: "This study presents an EOF (Empirical Orthogonal Function) approach to identifying sources of transient thickness change in ice shelves. The research provides a new method for analyzing ice shelf dynamics and understanding the spatial patterns of thickness variations."
-
 # Summary. An optional shortened abstract.
 summary: "EOF analysis method for identifying sources of transient thickness change in ice shelves."
 
@@ -43,7 +41,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://www.cambridge.org/core/journals/annals-of-glaciology/article/shape-of-change-an-eof-approach-to-identifying-sources-of-transient-thickness-change-in-an-ice-shelf/49C4B481BE50E75DDC8944CDF695ED53"
 url_video: ""
 
 # Featured image
@@ -71,15 +69,4 @@ slides: ""
 
 ## Abstract
 
-This study presents an EOF (Empirical Orthogonal Function) approach to identifying sources of transient thickness change in ice shelves. The research provides a new method for analyzing ice shelf dynamics and understanding the spatial patterns of thickness variations, which is crucial for understanding ice shelf response to climate change.
-
-## Key Findings
-
-- Developed an EOF-based method for analyzing ice shelf thickness changes
-- Identified spatial patterns of transient thickness variations
-- Provided new insights into ice shelf dynamics
-- Contributed to understanding of ice shelf response to environmental forcing
-
-## Impact
-
-This publication has been cited 4 times and represents methodological innovation in ice shelf analysis techniques. 
+Ross Ice Shelf (RIS) is known to experience transient thickness change due to changes in the flow of its tributary ice streams and glaciers and this may complicate identification of external, climate-forced signals in contemporary observations of ice shelf thinning and thickening. Flux changes at the lateral boundaries produce both instantaneous and longer timescale adjustments in the coupled velocity and thickness fields. Here, we adapt a statistical approach to output from a numerical model of ice shelf flow to identify characteristic patterns (spatial response surfaces) associated with stepped and cyclic perturbations to boundary fluxes. Once known, characteristic patterns identified in observational data may be attributed to specific sources. An example involving discharge of Byrd Glacier into RIS is described. We find that spatial response surfaces for thickness and velocity generated in individual flow model experiments appear to be independent of flux perturbation shape and magnitude. Additionally, recent acceleration of Byrd Glacier is apparent in ICESat-detected change in RIS thickness.

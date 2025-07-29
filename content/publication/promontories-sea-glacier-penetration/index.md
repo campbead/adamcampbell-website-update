@@ -19,8 +19,6 @@ publication_types: ["2"]
 publication: "The Cryosphere"
 publication_short: "The Cryosphere"
 
-abstract: "This study examines whether promontories could have restricted sea-glacier penetration into marine embayments during Snowball Earth events. The research explores the potential role of coastal geometry in creating refugia for surface life during extreme global glaciation."
-
 # Summary. An optional shortened abstract.
 summary: "Analysis of promontory effects on sea-glacier penetration during Snowball Earth events."
 
@@ -43,7 +41,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://tc.copernicus.org/articles/11/1141/2017/"
 url_video: ""
 
 # Featured image
@@ -71,15 +69,4 @@ slides: ""
 
 ## Abstract
 
-This study examines whether promontories could have restricted sea-glacier penetration into marine embayments during Snowball Earth events. The research explores the potential role of coastal geometry in creating refugia for surface life during extreme global glaciation, building on earlier work on Snowball Earth dynamics.
-
-## Key Findings
-
-- Investigated the role of promontories in restricting sea-glacier penetration
-- Examined coastal geometry effects on potential life refugia
-- Provided insights into Snowball Earth dynamics
-- Contributed to understanding of extreme climate events
-
-## Impact
-
-This publication has been cited 1 time and represents continued work on understanding Snowball Earth dynamics and potential life refugia. 
+During the Neoproterozoic (∼  1000–550 Ma), Earth experienced several climate excursions of extreme cold, often referred to as the Snowball Earth events. During these periods, thick flowing ice, referred to as sea glaciers, covered the entire planet's oceans. In addition, there is evidence that photosynthetic eukaryotic algae survived during these periods. With thick sea glaciers covering the oceans, it is uncertain where these organisms survived. One hypothesis is that these algae survived in marine embayments hydrologically connected to the global ocean, where the flow of sea glacier could be resisted. In order for an embayment to act as a refugium, the invading sea glacier must not completely penetrate the embayment. Recent studies have shown that straight-sided marine embayments could have prevented full sea-glacier penetration under a narrow range of climate conditions suitable for the Snowball Earth events. Here we test whether promontories, i.e., headlands emerging from a side shoreline, could further restrict sea-glacier flow. We use an ice-flow model, suitable for floating ice, to determine the flow of an invading sea glacier. We show that promontories can expand the range of climate conditions allowing refugia by resisting the flow of invading sea glaciers.

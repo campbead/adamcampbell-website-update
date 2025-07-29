@@ -19,8 +19,6 @@ publication_types: ["2"]
 publication: "Geophysical Research Letters"
 publication_short: "Geophys. Res. Lett."
 
-abstract: "This study presents a first simple model for sea-glacier invasion during Snowball Earth events, examining the potential for nearly-enclosed seas to serve as refugia for surface life. The research addresses fundamental questions about life survival during extreme global glaciation."
-
 # Summary. An optional shortened abstract.
 summary: "Modeling sea-glacier invasion to understand potential refugia for surface life during Snowball Earth events."
 
@@ -43,7 +41,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011GL048846"
 url_video: ""
 
 # Featured image
@@ -71,15 +69,8 @@ slides: ""
 
 ## Abstract
 
-This study presents a first simple model for sea-glacier invasion during Snowball Earth events, examining the potential for nearly-enclosed seas to serve as refugia for surface life. The research addresses fundamental questions about life survival during extreme global glaciation events that occurred in Earth's deep past.
+The existence of photosynthetic eukaryotic algae during the so-called Snowball Earth events presents a conundrum. If thick ice covered the oceans, where could such life persist? Here we explore the possibility that photosynthetic life persisted at the end of long narrow seas, analogous to the modern-day Red Sea. In this first analytical model, we test the ability of the global sea glacier to penetrate a Red Sea analogue under climatic conditions appropriate during a Snowball Earth event. We find the Red Sea is long enough to provide a refugium only if certain ranges of climatic conditions are met. These ranges would likely expand if the restrictive effect of a narrow entrance strait is also considered.
 
 ## Key Findings
 
-- Developed a simple model for sea-glacier invasion during Snowball Earth events
-- Identified potential refugia for surface life in nearly-enclosed seas
-- Provided insights into the mechanisms of global glaciation
-- Contributed to understanding of extreme climate events in Earth history
-
-## Impact
-
-This publication has been cited 26 times and represents foundational work in understanding Snowball Earth dynamics and potential life refugia during extreme glaciation events. 
+- Eukaryotes may have survived in long, narrow inland seas during Snowball Earth

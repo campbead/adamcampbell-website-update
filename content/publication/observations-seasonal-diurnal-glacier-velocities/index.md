@@ -19,8 +19,6 @@ publication_types: ["2"]
 publication: "The Cryosphere"
 publication_short: "The Cryosphere"
 
-abstract: "This study presents observations of seasonal and diurnal glacier velocities at Mount Rainier, Washington, using terrestrial radar interferometry. The research provides insights into the temporal variability of glacier flow and its relationship to environmental factors."
-
 # Summary. An optional shortened abstract.
 summary: "Analysis of seasonal and diurnal glacier velocity variations at Mount Rainier using terrestrial radar interferometry techniques."
 
@@ -43,7 +41,7 @@ url_dataset: ""
 url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: ""
+url_source: "https://tc.copernicus.org/articles/9/2219/2015/tc-9-2219-2015.html"
 url_video: ""
 
 # Featured image
@@ -71,15 +69,4 @@ slides: ""
 
 ## Abstract
 
-This study presents observations of seasonal and diurnal glacier velocities at Mount Rainier, Washington, using terrestrial radar interferometry. The research provides insights into the temporal variability of glacier flow and its relationship to environmental factors such as temperature, precipitation, and solar radiation.
-
-## Key Findings
-
-- Documented seasonal variations in glacier velocity at Mount Rainier
-- Identified diurnal velocity patterns related to solar radiation
-- Demonstrated the effectiveness of terrestrial radar interferometry for glacier monitoring
-- Provided insights into glacier response to environmental forcing
-
-## Impact
-
-This publication has been cited 31 times and represents a significant contribution to understanding glacier dynamics in temperate mountain environments. 
+We present surface velocity maps derived from repeat terrestrial radar interferometry (TRI) measurements and use these time series to examine seasonal and diurnal dynamics of alpine glaciers at Mount Rainier, Washington. We show that the Nisqually and Emmons glaciers have small slope-parallel velocities near the summit (< 0.2 m day−1), high velocities over their upper and central regions (1.0–1.5 m day−1), and stagnant debris-covered regions near the terminus (< 0.05 m day−1). Velocity uncertainties are as low as ±0.02–0.08 m day−1. We document a large seasonal velocity decrease of 0.2–0.7 m day−1 (−25 to −50 %) from July to November for most of the Nisqually Glacier, excluding the icefall, suggesting significant seasonal subglacial water storage under most of the glacier. We did not detect diurnal variability above the noise level. Simple 2-D ice flow modeling using TRI velocities suggests that sliding accounts for 91 and 99 % of the July velocity field for the Emmons and Nisqually glaciers with possible ranges of 60–97 and 93–99.5 %, respectively, when considering model uncertainty. We validate our observations against recent in situ velocity measurements and examine the long-term evolution of Nisqually Glacier dynamics through comparisons with historical velocity data. This study shows that repeat TRI measurements with > 10 km range can be used to investigate spatial and temporal variability of alpine glacier dynamics over large areas, including hazardous and inaccessible areas.
