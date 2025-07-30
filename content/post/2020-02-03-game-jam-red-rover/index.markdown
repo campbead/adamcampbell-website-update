@@ -14,7 +14,7 @@ image:
   focal_point: 'Center'
   preview_only: true
 projects: []
-draft: true
+draft: false
 ---
 
 A few years ago I was lucky enough to participate in a [Game Jam](https://globalgamejam.org/what-game-jam)
