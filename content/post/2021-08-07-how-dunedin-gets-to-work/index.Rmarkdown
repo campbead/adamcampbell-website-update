@@ -21,7 +21,7 @@ projects: []
 
 links:
  - name: "app"
-   url: https://campbead.shinyapps.io/HowDunedinGetsToWork/
+   url: https://01a19b00-a967-bc9d-0749-dbca8a59c834.share.connect.posit.cloud/
    icon_pack: fas
    icon: rocket
  - name: "code"
